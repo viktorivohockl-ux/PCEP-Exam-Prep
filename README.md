@@ -1,5 +1,6 @@
 # PCEP-Exam-Prep
-## Test
+## How I prepared for the exam
 -
-In this folder...
+This semester, I started working with Python.
+
 explain the exam and explain the files
