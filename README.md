@@ -1,6 +1,6 @@
 # PCEP Exam Prep
 
-This repository contains the exercises, notes, and practice files I used while preparing for the **PCEP – Certified Entry-Level Python Programmer** certification by the Python Institute.
+This repository contains the exercises, notes, and practice files I used while preparing for the **PCEP - Certified Entry-Level Python Programmer** certification by the Python Institute.
 
 ## About the PCEP Certification
 
